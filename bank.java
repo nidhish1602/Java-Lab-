@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class book
+class bank
 {
     //public double ci;
     //public double p;
